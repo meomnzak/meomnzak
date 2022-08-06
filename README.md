@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Moamen Zakaria</h1>
 <h3 align="center">I am a software engineer who is currently a backend intern at Instabug and a former Microsoft Intern</h3>
 
+
+<br>
+
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=mostafa142&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa142" /> 
+  </p>
+
+<br>
+
 - 📫 How to reach me **moemn.zakaria@gmail.com**
 
 - 📄 Know about my experiences [My resume](https://media-exp1.licdn.com/dms/document/C4D2DAQGgGUplFTl4Cg/profile-treasury-document-pdf-analyzed/0/1659792906958?e=1660780800&v=beta&t=A2sz7bqtDu2_I52rRrvF4MWo-UwtU0EjSzykr6sbkhU)
