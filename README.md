@@ -11,3 +11,19 @@
 <a href="https://codeforces.com/profile/moemn_zakaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/moemn_zakaria" height="30" width="40" /></a>
 <a href="https://leetcode.com/moemn_zakaria/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/moemn_zakaria/" height="30" width="40" /></a>
 </p>
+
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa142&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="mostafa142"
+    bg_color=#808080/></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa142&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="mostafa142" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa142&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&" alt="mostafa142" /></p>
+
+<p align="left"> <a href="https://twitter.com/mos__tafa_1" target="blank"><img
+      src="https://img.shields.io/twitter/follow/mos__tafa_1?logo=twitter&style=for-the-badge" alt="mos__tafa_1" /></a> </p>
