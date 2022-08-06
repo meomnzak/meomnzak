@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moamen Zakaria</h1>
 <h3 align="center">I am a software engineer who is currently a backend intern at Instabug and a former Microsoft Intern</h3>
 
-
-<br>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=meomnzak&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa142" /> 
-  </p>
-
-<br>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 - 📫 How to reach me **moemn.zakaria@gmail.com**
 
