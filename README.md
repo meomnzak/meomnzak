@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **moemn.zakaria@gmail.com**
 
-- 📄 Know about my experiences [My resume](https://media-exp1.licdn.com/dms/document/C4D2DAQFMkqo2S1Heww/profile-treasury-document-pdf-analyzed/0/1659798939134?e=1660780800&v=beta&t=FGhsCgy4IYzI_9exNm2yNVJEJXLV-SpSow9Pv4cgZAA)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1T4EU9o6OAwhkEU97n-PqBpz1ReZoBqTZ/view?usp=sharing)
 
 <br>
 
