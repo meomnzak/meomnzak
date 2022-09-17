@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moamen Zakaria</h1>
-<h3 align="center">I am a software engineer who is currently a backend intern at Instabug and a former Microsoft Intern</h3>
+<h3 align="center">I am a software engineer with two internships at Microsoft and Instabug</h3>
 
 <br>
 
